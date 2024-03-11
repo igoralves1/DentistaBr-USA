@@ -111,3 +111,5 @@ ADEA PASS: Applicants
 
 
 [ADEA PASS: Applicants](https://www.adea.org/PASSapp/Applying/)
+
+[Advanced Education General Dentistry (AEGD)](https://www.urmc.rochester.edu/dentistry/education/advanced-education-general-dentistry/how-to-apply.aspx)
