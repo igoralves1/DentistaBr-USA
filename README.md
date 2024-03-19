@@ -38,25 +38,43 @@ can only open one application per cycle.
 > 3.12 - Program Materials section of your application must be complete.
 
 
-> ### Complete all Supplemental Information
- Review the ADEA PASS Program Finder to determine what each program requires in addition to the
-ADEA PASS application.
-Contact ADEA PASS
-Customer service is available Monday-Friday from 9:00 a.m. to 5:00 p.m. ET.
-Phone Number: 617-612-2065
-Email: support@adeapass.myliaison.com
+> ### Complete all Supplemental Information  
+> Review the ADEA PASS Program Finder to determine what each program requires in addition to the ADEA PASS application.  
+> Contact ADEA PASS:  
+>> Customer service is available Monday-Friday from 9:00 a.m. to 5:00 p.m. ET.  
+>> Phone Number: 617-612-2065  
+>> Email: support@adeapass.myliaison.com  
+>
+
+4 - [WES -> AEDA Link](https://applications.wes.org/cas/index.asp)
+> Credential Evaluation for Centralized Application Services. WES is an approved provider of credential evaluations for your institution’s centralized application service (CAS).  
+> Credential Evaluation Requirements To apply to ADEA-PASS, follow these steps.  
+> What you need to do:  
+> 1 - Follow the steps below before starting your application.  
+>> 1.1 - Complete the ADEA-PASS application and get a Centralized Application Service (CAS) ID#.  
+>> 1.2 - Select U.S. for your evaluation.  
+>> 1.3 - Add ADEA-PASS as the recipient and enter your CAS ID#.  
+>> 1.4 - Select the WES ICAP Course-by-Course evaluation type (required by ADEA-PASS).
+>  
+> 2 - Follow the country-specific document requirements and arrange for your documents to be delivered to WES.
+> 
+> 3 - What WES will do for you:
+>> 3.1 - Verify your academic records.  
+>> 3.2 - Prepare an official credential evaluation.  
+>> 3.3 - Deliver your evaluation report and verified copies of your transcripts directly to ADEA-PASS.
+>
+> 4 - Additional Information:  
+>> 4.1 - If you applied to WES without your CAS ID#:  
+>> 4.2 - Contact WES customer service. Include your name, WES reference number, date of birth, country of education, and CAS ID# so we can update your file.  
+>> 4.3 - If you already have a WES evaluation report and are now applying to ADEA-PASS:  
+>> 4.4 - Order a duplicate report. Select ADEA-PASS as the recipient of your evaluation and enter your CAS ID#.  
+>
+> 5 - [Begin Application Link](https://applications.wes.org/createaccount/?casid=&casclient=49295)
+> sdfg
 
 
 
-
-
-
-
-
-
-
-
-
+============
 
 ## [ADEA PASS Quick Start Guide and FAQs](https://help.liaisonedu.com/ADEA_PASS_Applicant_Help_Center/Starting_Your_ADEA_PASS_Application/Getting_Started_with_Your_ADEA_PASS_Application/01_Quick_Start_Guide)
 
