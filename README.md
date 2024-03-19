@@ -1,5 +1,63 @@
 # DentistaBr-USA
 
+1 - [ADEA Postdoctoral Application Support Service (PASS)](https://www.adea.org/passapp/)
+> The ADEA Postdoctoral Application Support Service (ADEA PASS) is available to all individuals applying to the over 700 participating advanced dental education programs. Applicants benefit by being able to complete one standardized application, rather than individual applications to each program. Advanced dental education programs benefit by receiving uniform information on all applicants.
+
+2 - [ADEA PASS: Applicants](https://www.adea.org/PASSapp/applicants/)
+> The ADEA Postdoctoral Application Support Service (ADEA PASS) is available to all individuals applying to the over 700 participating advanced dental education programs. ADEA PASS simplifies the application process by allowing you to complete one standardized application, rather than individual applications to each program. The 2024-25 application fees are $199 for the first program an applicant applies to and $92 for each additional program. Applicants can use the ADEA PASS Application ChecklistPDF as a resource when applying.
+
+3 - [ADEA PASS Application Checklist](https://www.adea.org/uploadedFiles/ADEA/Content_Conversion_Final/dental_education_pathways/pass/Applicants/ADEA-PASS-Application-Checklist(1).pdf)
+> The ADEA PASS® (ADEA Postdoctoral Application Support Service) is the centralized application service for
+applicants to advanced dental education programs. Applicant’s save time and energy by completing one
+application for multiple programs. ADEA PASS is open from May through February each year. Applicants
+can only open one application per cycle.
+
+> ### Prepare to Apply
+> 3.1 - Find participating programs and program information on the [ADEA PASS Program Finder @ link](https://programs.adea.org/PASS).  
+> 3.2 - Write a personal statement.  
+> 3.3 - Update accomplishments and professional experiences on a CV/Resume.  
+> 3.4 - Ask professors and mentors to write a reference letter.  
+> 3.5 - Collect testing information.
+
+> ### Create and Complete ADEA PASS Application  
+> 3.7 - Request all required documents including:  
+>> 3.7.1 - Official Dental Transcript(s).  
+>> 3.7.2 - One Institution Evaluation.  
+>> 3.7.3 - Three to five Professional Evaluations.
+> 
+> 3.8 - Submit the online ADEA PASS application including payment.
+
+
+> ### Monitor Your Application
+> Before your application can be released to your designated programs, your application must have a status
+> of “Complete”. You can track status via the “Check Status” area of the application. For your application to
+> become complete, the following must occur:  
+> 3.9 - Application is e-Submitted, and payment has been received.  
+> 3.10 - All official dental school transcripts have been processed.  
+> 3.11 - All evaluations have been electronically received.  
+> 3.12 - Program Materials section of your application must be complete.
+
+
+> ### Complete all Supplemental Information
+ Review the ADEA PASS Program Finder to determine what each program requires in addition to the
+ADEA PASS application.
+Contact ADEA PASS
+Customer service is available Monday-Friday from 9:00 a.m. to 5:00 p.m. ET.
+Phone Number: 617-612-2065
+Email: support@adeapass.myliaison.com
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## [ADEA PASS Quick Start Guide and FAQs](https://help.liaisonedu.com/ADEA_PASS_Applicant_Help_Center/Starting_Your_ADEA_PASS_Application/Getting_Started_with_Your_ADEA_PASS_Application/01_Quick_Start_Guide)
 
 
